@@ -4,7 +4,7 @@
 <h1 align='center'> Bem vindo ao meu repositório do GitHub </h1>
 
 
-<h3> Me chamo Felipe Cavalari 🤙 </h3> 
+<h3> 🤙 Olá, Me chamo Felipe Cavalari. Sou Front-end developer</h3> 
 
 
 
