@@ -49,5 +49,3 @@
 
 
 
-![Snake animation](https://github.com/Felipe-Cavalari/Felipe-Cavalari/blob/output/github-contribution-grid-snake.svg)
-
