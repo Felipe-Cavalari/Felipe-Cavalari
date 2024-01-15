@@ -1,14 +1,14 @@
-<h1 style='border:none'>Olá sou Felipe Cavalari</h1>
-<h2> Seja bem vindo ao meu perfil do GitHub </h2>
+<h1 style='border:none'>Olá sou Felipe Cavalari 👋</h1>
+<h2 > Seja bem vindo ao meu perfil do GitHub</h2>
 
-<h2 style='border:none'>Acesse meu portfolio</h2>
+<h3 style='border:none'>Acesse meu portfolio 👇</h3>
 <div>
     <a href='https://portfolio-model-template.vercel.app/'><img src='https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white'></a>
 </div>
 
 
 
-<h2> Meus conhecimentos ☕ </h2>
+<h3> Meus conhecimentos ☕ </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-<h2 style=''> Minhas Estátisticas </h2>
+<h3> Minhas Estátisticas 📶</h3>
 
 <div>
 <a href="https://github.com/Felipe-Cavalari">
@@ -46,6 +46,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:fecavalaridev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55%2011981937472)
-
-
 
