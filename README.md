@@ -3,7 +3,7 @@
 
 <h3 style='border:none'>Acesse meu portfolio 👇</h3>
 <div>
-    <a href='https://portfolio-model-template.vercel.app/'><img src='https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white'></a>
+    <a href='[https://portfolio-model-template.vercel.app/](https://meu-portfolio-3mbcbiyhf-felipe-cavalari.vercel.app/)'><img src='https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white'></a>
 </div>
 
 
