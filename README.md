@@ -41,15 +41,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-
-
-<br />
-
-
-<a href="https://github.com/Felipe-Cavalari" title="Perfil de Felipe Cavalari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-cavalari&theme=dracula&show_icons=true" />
-</a>
-
 ## Contato:
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=firefoxbrowser&logoColor=white)](https://felipecavalari.com.br/)
